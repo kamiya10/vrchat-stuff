@@ -16,11 +16,12 @@
 ### 安裝
 1. 導入 [VRCSDK](https://vrchat.com/home/download) 到你的專案裡
 2. 導入 [UdonSharp](https://github.com/MerlinVR/UdonSharp) 到你的專案裡
-3. 拖曳 Clock 到你的場景裡並重新調整大小、位置、選轉成你要的樣子
-4. 如果你想要用12小時制的話，取消勾選「24小時制」選取框
+3. 導入 `Clock.unitypackage` 到你的專案裡
+4. 拖曳 Clock 到你的場景裡並重新調整大小、位置、選轉成你要的樣子
+5. 如果你想要用12小時制的話，取消勾選「24小時制」選取框
 
 ### 下載
-這裡
+[這裡](https://github.com/kamiya10/vrchat-stuff/raw/main/CircleClock/Clock.unitypackage)
 不用標記作者沒關係
 但要是能標記一下的話我會很開心的 :D
 
@@ -37,13 +38,14 @@
 
 ### 導入方法
 1. [VRCSDK](https://vrchat.com/home/download) をUnityへインポートしてください。
-2. [UdonSharp](https://github.com/MerlinVR/UdonSharp) をUnityへインポートしてください。.
+2. [UdonSharp](https://github.com/MerlinVR/UdonSharp) をUnityへインポートしてください。
+2. `Clock.unitypackage` をUnityへインポートしてください。
 3. フォルダにある「Clock」プレハブをワールドの任意の場所に配置してください。(大きさも変更可能です)
 4. 「24時間制」のチェックを外すと、24時間制から12時間制に変更することができます。
 
 ### ダウンロード
-ここ
-
+[ここ](https://github.com/kamiya10/vrchat-stuff/raw/main/CircleClock/Clock.unitypackage)
+ワールドにクレジット表記は任意で大丈夫です！表記されるなら嬉しいです！
 
 </div>
 
@@ -59,11 +61,12 @@ Using system time, same as timezone name.
 ### Installation
 1. Import [VRCSDK](https://vrchat.com/home/download) into your project.
 2. Import [UdonSharp](https://github.com/MerlinVR/UdonSharp) into your project.
-3. Drag the Clock prefab into your scene, and retransform as you want.
-4. Uncheck the "24-hour clock" checkboox if you wish to use 12-hour clock instead of 24.
+3. Import `Clock.unitypackage` into your project.
+4. Drag the Clock prefab into your scene, and retransform as you want.
+5. Uncheck the "24-hour clock" checkboox if you wish to use 12-hour clock instead of 24.
 
 ### Download
-here
+[here](https://github.com/kamiya10/vrchat-stuff/raw/main/CircleClock/Clock.unitypackage)
 You don't need to credit me in your world, but if you do, I appreciate it. :D
 
 </div>
