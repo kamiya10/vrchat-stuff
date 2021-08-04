@@ -21,10 +21,10 @@
 5. 如果你想要用12小時制的話，取消勾選「24小時制」選取框
 
 ### 下載
-[這裡](https://github.com/kamiya10/vrchat-stuff/raw/main/CircleClock/Clock.unitypackage)
-不用標記作者沒關係
+[這裡](https://github.com/kamiya10/vrchat-stuff/raw/main/CircleClock/Clock.unitypackage)\
+不用標記作者沒關係\
 但要是能標記一下的話我會很開心的 :D
-
+<br/><br/>
 </div>
 
 <div id="jpn">
@@ -44,9 +44,9 @@
 4. 「24時間制」のチェックを外すと、24時間制から12時間制に変更することができます。
 
 ### ダウンロード
-[ここ](https://github.com/kamiya10/vrchat-stuff/raw/main/CircleClock/Clock.unitypackage)
-ワールドにクレジット表記は任意で大丈夫です！表記されるなら嬉しいです！
-
+[ここ](https://github.com/kamiya10/vrchat-stuff/raw/main/CircleClock/Clock.unitypackage)\
+ワールドにクレジット表記は任意で大丈夫です！\表記されるなら嬉しいです！
+<br/><br/>
 </div>
 
 <div id="eng">
@@ -66,7 +66,7 @@ Using system time, same as timezone name.
 5. Uncheck the "24-hour clock" checkboox if you wish to use 12-hour clock instead of 24.
 
 ### Download
-[here](https://github.com/kamiya10/vrchat-stuff/raw/main/CircleClock/Clock.unitypackage)
+[here](https://github.com/kamiya10/vrchat-stuff/raw/main/CircleClock/Clock.unitypackage)\
 You don't need to credit me in your world, but if you do, I appreciate it. :D
 
 </div>
